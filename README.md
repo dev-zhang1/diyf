@@ -18,6 +18,6 @@
 ## 快速部署
 1.  安装Docker并部署Dify平台
 2.  运行 `init\\\_database.sql` 创建数据库与测试数据
-3.  在Dify中导入 `07-nlp2sql 数据库查询助手.yml` 工作流
+3.  在Dify中导入 `nlp2sql 数据库查询助手.yml` 工作流
 4.  配置本地MySQL数据库连接凭据
 5.  发布应用，即可开始使用
